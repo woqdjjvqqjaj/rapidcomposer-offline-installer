@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Composition-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RapidComposer Free Installer** — RapidComposer is a phrase-based MIDI composition tool for Windows and macOS. Works without internet access, no account required. Full offline installation.
+**💻 RapidComposer Free Installer** — RapidComposer is a music composition and arrangement software for Windows and macOS that uses phrase-based and generative approaches to music creation. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RapidComposer
 
-RapidComposer is a phrase-based MIDI composition tool for Windows and macOS. It uses a library of musical phrases across styles and instruments, allowing you to quickly compose full arrangements by combining and transforming phrases — ideal for film scoring and game music.
+RapidComposer is a music composition and arrangement software for Windows and macOS that uses phrase-based and generative approaches to music creation. Build songs by combining musical phrases, apply transformation algorithms, and generate accompaniment patterns automatically. RapidComposer targets musicians who want to quickly explore musical ideas and arrangements without manually programming every note.
 
 ---
 
 ## ❌ Problem: RapidComposer is hard to access
 
-- **Steep Learning Curve** — Phrase-based workflow is unusual and takes time to master
-- **Paid License** — Full version requires significant purchase
-- **MIDI Only** — No built-in audio recording; requires external VST instruments
-- **Small Community** — Limited tutorials and presets compared to traditional DAWs
+- **Commercial License** — Paid software with different pricing tiers
+- **Learning Curve** — Phrase-based composition paradigm requires adjustment for traditional musicians
+- **MIDI Export** — Compositions export as MIDI for further production in a DAW
+- **Niche Workflow** — Phrase-based generative approach not suitable for all composition styles
 
 ---
 
@@ -121,7 +121,7 @@ RapidComposer is a phrase-based MIDI composition tool for Windows and macOS. It 
 
 ---
 
-**RapidComposer Free Installer** — RapidComposer is a phrase-based MIDI composition tool for Windows and macOS. Install without internet connection today!
+**RapidComposer Free Installer** — RapidComposer is a music composition and arrangement software for Windows and macOS that uses phrase-based and generative approaches to music creation. Install without internet connection today!
 
 <div align="center">
 
